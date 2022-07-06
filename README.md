@@ -1,0 +1,1 @@
+# Convert-a-LD-formula-to-a-logically-equivalent-DNF-formula
